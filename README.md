@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/tudosebogdan/)**
+- :newspaper: Read some of my Python articles on **[Medium](https://medium.com/@bogdan-tudose)**
 - :office: I'm currently a Principal and instructor for **[The Marque Group](https://marqueegroup.ca/)**
 - :school: Check out some of the programming courses I teach:
   - [Python 1: Core Data Analysis](https://marqueegroup.ca/course/python-1-core-data-analysis/)  
