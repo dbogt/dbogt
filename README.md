@@ -13,9 +13,10 @@
 
 Some Python projects to try out:
 - :chart_with_upwards_trend:[Stock Beta Calculator](https://bitly.com/StockBetaApp): Dashboard created with Streamlit and Python to calculate a stock's beta. Pick a ticker and a stock index to run the regression and calculate the beta. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/stockbetadashboard/main/app.py) 
+- :moneybag:[Ontario Sunshine List](https://bit.ly/ONSunshineList): Dashboard that explores 20+ years of public sector salary disclosures from Ontario (https://www.ontario.ca/page/public-sector-salary-disclosure). [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/on_sunshine/main) 
 - :movie_camera::trophy:[Oscars 2022 Predictions](https://bitly.com/oscarsApp): Make predictions for the top categories and compare your answers with other people around the world. Also try out the Best Picture Emoji quiz while you're at it! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/oscars2022/main) 
 - :game_die:[Board Game Collection](https://bitly.com/BGGApp): Check out your board game collection by connecting with your BoardGameGeek account. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/bggcollection/main/app.py) 
-- :moneybag:[Ontario Sunshine List](https://bit.ly/ONSunshineList): Dashboard that explores 20+ years of public sector salary disclosures from Ontario (https://www.ontario.ca/page/public-sector-salary-disclosure). [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dbogt/on_sunshine/main) 
+
 
 <!--
 **dbogt/dbogt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
