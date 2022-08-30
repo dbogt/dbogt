@@ -10,6 +10,7 @@
   - [Python 2: Visualization and Analysis](https://marqueegroup.ca/course/python-2-visualization-and-analysis/)
   - [Python 3: Web Scraping and Machine Learning](https://marqueegroup.ca/course/python-3-web-scraping-and-machine-learning/)
   - [VBA for Finance Professionals](https://marqueegroup.ca/course/vba-for-finance-professionals/)
+- Python Resources: https://github.com/dbogt/pythonResources
 
 Some Python projects to try out:
 - :fuelpump:[Gas Stations Locator](https://bit.ly/locationsDemo): Dashboard created with Streamlit and Python to plot gas station locations of Couche-Tard and Shell Canada. Pick a gas station and km radius and the app will locate all the Couche-Tard and Shell stations within that distance. App is a demo of how Python could be used in an M&A deal to help with cost synergy analysis. [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](hhttps://dbogt-locationsdemo-app-avfon4.streamlitapp.com/) 
